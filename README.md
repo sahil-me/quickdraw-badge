@@ -7,3 +7,5 @@ This repository explains how to earn GitHub’s **Quickdraw badge** by quickly r
 ![giphy](https://github.com/user-attachments/assets/ef0a8edb-8298-44f3-a607-b6a7341d375b)
 
 ---
+
+## 📢 Table of Contents
