@@ -9,3 +9,20 @@ This repository explains how to earn GitHub’s **Quickdraw badge** by quickly r
 ---
 
 ## 📢 Table of Contents
+
+- [What is the Quickdraw Badge?](#)
+  - [Requirements](#)
+- [Step-by-Step Guide](#)
+  - [Method 1: Responding to Issues](#)
+  - [Method 2: Responding to Pull Requests](#)
+  - [Method 3: Interaction on Public Repositories](#)
+- [Best Practices to Earn It Faster](#)
+- [Screenshots](#)
+- [When Will the Badge Appear?](#)
+- [Badge Levels](#)
+- [Important Limitations](#)
+- [Why This Repo?](#)
+- [Author](#)
+
+---
+
