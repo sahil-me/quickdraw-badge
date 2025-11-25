@@ -26,3 +26,11 @@ This repository explains how to earn GitHub’s **Quickdraw badge** by quickly r
 
 ---
 
+## 📌 What is the Quickdraw Badge?
+
+The **Quickdraw badge** is awarded when you are among the first people to **respond to an issue** or **pull request** on any **public GitHub repository**.
+
+- **Symbol**: ⚡ Lightning-fast response
+- **Purpose**: Encourages helping others by responding quickly
+- **Unlock**: By being one of the first to comment on an issue or PR
+
