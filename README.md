@@ -34,3 +34,15 @@ The **Quickdraw badge** is awarded when you are among the first people to **resp
 - **Purpose**: Encourages helping others by responding quickly
 - **Unlock**: By being one of the first to comment on an issue or PR
 
+## 🔻 Requirements:
+
+- ⚡ Respond quickly to an issue or PR
+- ⏳ Your comment must be among the first few responses
+- 🌍 Must occur on a public repository
+- 🗣️ Must be a meaningful comment
+- 📩 Verified GitHub account (normal requirement)
+
+> 👉 Your comment can be anything helpful — clarifying, guiding, suggesting, or asking relevant questions.
+
+---
+
