@@ -46,3 +46,6 @@ The **Quickdraw badge** is awarded when you are among the first people to **resp
 
 ---
 
+## 🛠️ Step-by-Step Guide
+
+Below are the three easiest ways to earn the Quickdraw badge.
