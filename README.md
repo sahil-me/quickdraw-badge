@@ -60,3 +60,13 @@ Below are the three easiest ways to earn the Quickdraw badge.
 Thanks for reporting! I think the issue may be related to…
 ```
 - If your comment is among the first → badge progress counts!
+
+### 2️⃣ Method 2: Responding to Pull Requests
+
+- Browse recently opened **pull requests**
+- Add constructive feedback, such as:
+```bash
+Great work! Have you considered handling edge case X?
+```
+- Your early review comment qualifies for **Quickdraw**
+
