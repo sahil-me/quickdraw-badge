@@ -49,3 +49,14 @@ The **Quickdraw badge** is awarded when you are among the first people to **resp
 ## 🛠️ Step-by-Step Guide
 
 Below are the three easiest ways to earn the Quickdraw badge.
+
+### 1️⃣ Method 1: Responding to Issues
+
+- Go to **GitHub** → **Explore** → **Trending Repositories**
+- Open issues with labels like: `help wanted`, `good first issue`, `bug`, etc.
+- Look for newly **created issues**
+- Immediately add a **helpful comment**, e.g.:
+```bash
+Thanks for reporting! I think the issue may be related to…
+```
+- If your comment is among the first → badge progress counts!
