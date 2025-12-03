@@ -70,3 +70,14 @@ Great work! Have you considered handling edge case X?
 ```
 - Your early review comment qualifies for **Quickdraw**
 
+### 3️⃣ Method 3: Interaction on Public Repositories
+
+You can also:
+- Watch your favorite repositories
+- Turn on Notifications
+- React FAST when new issues/PRs appear
+
+> 🎯 Being early is the only key here!
+
+---
+
