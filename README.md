@@ -81,3 +81,4 @@ You can also:
 
 ---
 
+## 💡 Best Practices to Earn It Faster
