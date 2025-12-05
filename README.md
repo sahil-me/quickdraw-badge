@@ -82,3 +82,5 @@ You can also:
 ---
 
 ## 💡 Best Practices to Earn It Faster
+
+- ⭐ Watch popular repositories
