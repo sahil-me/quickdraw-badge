@@ -87,3 +87,4 @@ You can also:
 - 🔔 Enable All Activity notifications
 - 🚀 Respond within the first few minutes
 - 🎤 Write relevant, helpful comments (not just emojis)
+- 🌍 Contribute to global open-source communities
