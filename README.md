@@ -85,3 +85,4 @@ You can also:
 
 - ⭐ Watch popular repositories
 - 🔔 Enable All Activity notifications
+- 🚀 Respond within the first few minutes
