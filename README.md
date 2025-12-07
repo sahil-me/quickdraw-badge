@@ -97,3 +97,4 @@ You can also:
 
 ---
 
+## ⏱️ When Will the Badge Appear?
