@@ -98,3 +98,6 @@ You can also:
 ---
 
 ## ⏱️ When Will the Badge Appear?
+
+<img width="148" height="148" alt="quickdraw" src="https://github.com/user-attachments/assets/6e2798e3-22b9-4657-aa5c-25aa1edbafed" />
+
