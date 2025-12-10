@@ -104,3 +104,6 @@ You can also:
 - Typically within a few minutes
 - Sometimes takes up to **24 hours**
 - If not visible, respond to another issue or PR
+
+---
+
