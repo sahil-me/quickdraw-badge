@@ -107,3 +107,5 @@ You can also:
 
 ---
 
+## 🏅 Badge Levels
+
