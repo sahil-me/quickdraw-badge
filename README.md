@@ -109,3 +109,12 @@ You can also:
 
 ## 🏅 Badge Levels
 
+The Quickdraw badge also has progression levels:
+
+| Level       | Requirement (First-responder comments) | Badge Display |
+| ----------- | -------------------------------------- | ------------- |
+| **Initial** | 1 event                                | Quickdraw x1  |
+| **Bronze**  | 10 events                              | Quickdraw x2  |
+| **Silver**  | 24 events                              | Quickdraw x3  |
+| **Gold**    | 48 events                              | Quickdraw x4  |
+
