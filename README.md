@@ -118,3 +118,7 @@ The Quickdraw badge also has progression levels:
 | **Silver**  | 24 events                              | Quickdraw x3  |
 | **Gold**    | 48 events                              | Quickdraw x4  |
 
+> ✔ Each level is earned by repeating the same action more times.
+
+---
+
