@@ -124,3 +124,4 @@ The Quickdraw badge also has progression levels:
 
 ## 🚫 Important Limitations
 
+❌ What does not count:
