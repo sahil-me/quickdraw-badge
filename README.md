@@ -127,3 +127,4 @@ The Quickdraw badge also has progression levels:
 ❌ What does not count:
 - Comments made too late
 - Comments on private repositories
+- Emoji-only or meaningless responses
