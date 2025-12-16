@@ -129,3 +129,4 @@ The Quickdraw badge also has progression levels:
 - Comments on private repositories
 - Emoji-only or meaningless responses
 - Automated bot comments
+- Comments on your own issues/PRs
