@@ -135,3 +135,4 @@ The Quickdraw badge also has progression levels:
 
 ## ⭐ Why This Repo?
 
+- Teaches developers how to earn the Quickdraw badge
