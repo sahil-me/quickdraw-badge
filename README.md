@@ -130,3 +130,8 @@ The Quickdraw badge also has progression levels:
 - Emoji-only or meaningless responses
 - Automated bot comments
 - Comments on your own issues/PRs
+
+---
+
+## ⭐ Why This Repo?
+
