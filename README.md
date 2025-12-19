@@ -139,3 +139,8 @@ The Quickdraw badge also has progression levels:
 - Explains timing, strategy, and GitHub behavior
 - Helps beginners participate in open source
 - Completes your GitHub Achievement badge collection!
+
+If this helped you → ⭐ Star the repo!
+
+---
+
