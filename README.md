@@ -137,3 +137,4 @@ The Quickdraw badge also has progression levels:
 
 - Teaches developers how to earn the Quickdraw badge
 - Explains timing, strategy, and GitHub behavior
+- Helps beginners participate in open source
