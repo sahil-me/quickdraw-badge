@@ -144,3 +144,8 @@ If this helped you → ⭐ Star the repo!
 
 ---
 
+## 🏆 Author
+
+Made with ❤️ by [Sahil Sharma](https://github.com/sahil-me)
+
+🎈 Happy contributing & badge collecting! ☺️
