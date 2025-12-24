@@ -94,7 +94,7 @@ You can also:
 ## 📸 Screenshots
 
 <img width="1366" height="768" alt="Quickdraw-1" src="https://github.com/user-attachments/assets/2908fd83-47f7-475c-bbda-e22b751e950e" />
-
+<img width="1366" height="768" alt="Quickdraw-2" src="https://github.com/user-attachments/assets/d9e92730-bc18-49ad-8262-b0882e9724bd" />
 
 ---
 
