@@ -10,7 +10,7 @@ This repository explains how to earn **Quickdraw badge** by quickly responding t
 
 ## 📢 Table of Contents
 
-- [What is the Quickdraw Badge?](#)
+- [What is the Quickdraw Badge?](#-what-is-the-quickdraw-badge)
   - [Requirements](#)
 - [Step-by-Step Guide](#)
   - [Method 1: Responding to Issues](#)
