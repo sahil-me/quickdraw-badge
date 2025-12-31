@@ -17,7 +17,7 @@ This repository explains how to earn **Quickdraw badge** by quickly responding t
   - [Method 2: Responding to Pull Requests](#2%EF%B8%8F⃣-method-2-responding-to-pull-requests)
   - [Method 3: Interaction on Public Repositories](#3%EF%B8%8F⃣-method-3-interaction-on-public-repositories)
 - [Best Practices to Earn It Faster](#-best-practices-to-earn-it-faster)
-- [Screenshots](#)
+- [Screenshots](#-screenshots)
 - [When Will the Badge Appear?](#)
 - [Badge Levels](#)
 - [Important Limitations](#)
