@@ -18,7 +18,7 @@ This repository explains how to earn **Quickdraw badge** by quickly responding t
   - [Method 3: Interaction on Public Repositories](#3%EF%B8%8F⃣-method-3-interaction-on-public-repositories)
 - [Best Practices to Earn It Faster](#-best-practices-to-earn-it-faster)
 - [Screenshots](#-screenshots)
-- [When Will the Badge Appear?](#)
+- [When Will the Badge Appear?](#%EF%B8%8F-when-will-the-badge-appear)
 - [Badge Levels](#)
 - [Important Limitations](#)
 - [Why This Repo?](#)
