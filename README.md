@@ -19,7 +19,7 @@ This repository explains how to earn **Quickdraw badge** by quickly responding t
 - [Best Practices to Earn It Faster](#-best-practices-to-earn-it-faster)
 - [Screenshots](#-screenshots)
 - [When Will the Badge Appear?](#%EF%B8%8F-when-will-the-badge-appear)
-- [Badge Levels](#)
+- [Badge Levels](#-badge-levels)
 - [Important Limitations](#)
 - [Why This Repo?](#)
 - [Author](#)
