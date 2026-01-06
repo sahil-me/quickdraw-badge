@@ -22,7 +22,7 @@ This repository explains how to earn **Quickdraw badge** by quickly responding t
 - [Badge Levels](#-badge-levels)
 - [Important Limitations](#-important-limitations)
 - [Why This Repo?](#-why-this-repo)
-- [Author](#)
+- [Author](#-author)
 
 ---
 
