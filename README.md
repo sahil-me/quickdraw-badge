@@ -21,7 +21,7 @@ This repository explains how to earn **Quickdraw badge** by quickly responding t
 - [When Will the Badge Appear?](#%EF%B8%8F-when-will-the-badge-appear)
 - [Badge Levels](#-badge-levels)
 - [Important Limitations](#-important-limitations)
-- [Why This Repo?](#)
+- [Why This Repo?](#-why-this-repo)
 - [Author](#)
 
 ---
